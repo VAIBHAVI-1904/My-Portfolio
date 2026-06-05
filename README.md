@@ -3,8 +3,8 @@
 Final Year Computer Science and Engineering student at KIIT with interests in Artificial Intelligence, Machine Learning, Data Analytics, and Software Development.
 
 📧 [vaibhavi.ranjan19@gmail.com](mailto:vaibhavi.ranjan19@gmail.com)
-🔗 LinkedIn: linkedin.com/in/vaibhavi19
-🔗 GitHub: github.com/VAIBHAVI-1904
+🔗 LinkedIn: *[LinkedIn](linkedin.com/in/vaibhavi19)*
+🔗 GitHub: [GitHub](github.com/VAIBHAVI-1904)*
 📄 Resume: *[Resume](https://drive.google.com/file/d/1-EUvn8c7iA4HLbAdwOAyWSYJdQfDno6z/view?usp=drive_link)*
 
 ---
