@@ -50,7 +50,7 @@ I am a Computer Science undergraduate passionate about building AI-powered and d
 * Achieved 67.61% accuracy across 24 job roles.
 * Deployed on Hugging Face Spaces with PDF upload support.
 * 🔗 Live Demo: *[Hugging Face Spaces](https://huggingface.co/spaces/Vaibhavi-1904/Resume_Screener)*
-* 🔗 Repository: *[[Hugging Face Spaces](https://github.com/Vaibhavi-1904/Resume_Screener)*
+* 🔗 Repository: *[Resume Screener](https://github.com/Vaibhavi-1904/Resume_Screener)*
 
 
 ### Zomato Bangalore Restaurant Analytics
@@ -61,7 +61,7 @@ I am a Computer Science undergraduate passionate about building AI-powered and d
 * Analyzed customer preferences, pricing trends, and restaurant performance.
 * Generated business insights through data visualization and reporting.
 * 🔗 Kaggle Notebook: *[Kaggle notebook](https://www.kaggle.com/code/vaibhavi1911/zomato-bangalore-eda-restaurant-trends-insight)*
-* 🔗 Repository: *[[Kaggle notebook](https://github.com/VAIBHAVI-1904/Zomato-Bangalore-EDA)*
+* 🔗 Repository: *[Zomato-Bangalore Restaurant Analytics](https://github.com/VAIBHAVI-1904/Zomato-Bangalore-EDA)*
 
 
 ### AI & Data Science Projects
